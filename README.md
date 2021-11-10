@@ -11,7 +11,7 @@ The effects I selected : 1.Noise Gating
                          3.Flanging
                          4.Chorus
                          
-Find all the scores in file named "score"
+\nFind all the scores in file named "score"
 
 Find all the result waves in file named "finalresult"
 
